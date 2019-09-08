@@ -1,6 +1,6 @@
 // Code your solution in this file!
-function distanceFromHqInBlocks (someValue) {
-  //returns the number of blocks given a value
+function distanceFromHqInBlocks(distance) {
+  return Math.abs(distance - 42);
 }
 
 function distanceFromHqInFeet (someValue) {
